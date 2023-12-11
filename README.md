@@ -52,7 +52,7 @@ Connect with us on social media:
 We appreciate the support from the Biology Department at the University of Vermont and funding sources that make our research possible.
 
 ## License
-This project is licensed under the [MIT License](Lidcense.txt) 
+This project is licensed under the MIT License
 
 ## Publications
 Explore our [publications](https://mstanleylab.weebly.com/publications.html) for in-depth insights into our research findings.
