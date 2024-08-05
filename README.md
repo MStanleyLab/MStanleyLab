@@ -1,6 +1,6 @@
 # Cellular Neuroscience Research Lab
 
-![Lab Logo/Icon Here](https://mstanleylab.weebly.com/uploads/1/4/1/5/141531478/mstanley-lab-logo_orig.png)
+
 
 ## Overview
 Welcome to the GitHub repository for the Food-Brain Connections Research Lab at the Biology Department, University of Vermont. Our lab focuses on investigating the intricate connections between food choices and neural circuits at a cellular level, using the fruit fly (Drosophila melanogaster) as a powerful model organism.
